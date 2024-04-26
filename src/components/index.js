@@ -1,0 +1,9 @@
+export { default as Navbar } from "./Navbar";
+export { default as Feed } from "./Feed";
+export { default as Footer } from "./Footer";
+export { default as Header } from "./Header";
+export { default as Trending } from "./Trending";
+export { default as Deals } from "./Deals";
+export { default as Popular } from "./Popular";
+export { default as Sale } from "./Sale";
+export { default as Blog } from "./Blog";
