@@ -2,6 +2,10 @@
 
 This is a demo example of an e-commerce website
 
+## Screenshot
+
+![screenshot](./screenshot/shop_verse_screenshot.PNG)
+
 ## Design Origin
 
 Design by Dualite
